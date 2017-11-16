@@ -10,6 +10,7 @@
     "ajv-keywords": "^2.0.0",
     "async": "^2.1.2",
     "enhanced-resolve": "^3.4.0",
+    "babylon": "7.0.0-beta.15",
     "escope": "^3.6.0",
     "interpret": "^1.0.0",
     "json-loader": "^0.5.4",
